@@ -7,11 +7,11 @@
     <title>Dudinha ??</title>
 </head>
 <body>
-    <h1>Dudinha ??</h1>
-    <img src="IMG_20240126_231617_888.jpg" alt="Sua Foto">
+    <h1>Duda</h1>
+    <img src="./img/WhatsApp Image 2024-07-08 at 09.54.24.jpeg" alt=""
     <h2>Apelido/Nick: Duda</h2>
     <h4>Email: dudagcamargos037@gmail.com</h4>
-    <p>Ol·! Me chamo Eduarda, mas pode me chamar de Duda. Tenho 16 anos e estudo no IFTM na ·rea de inform·tica. O que mais gosto de fazer È passar um tempo com quem gosto e lutar.</p>
+    <p>Ol√°! Me chamo Eduarda, mas pode me chamar de Duda. Tenho 16 anos e estudo no IFTM na √°rea de inform√°tica. O que mais gosto de fazer √© passar um tempo com quem gosto e lutar.</p>
     <a href="https://www.instagram.com/duda_.camargos" target="_blank">Instagram</a>
 </body>
 </html>
